@@ -366,7 +366,7 @@ body{
 /*hero section starts */
 
 .hero{
-    background-image: url(../aju/images/hero-bg.jpg);
+    background-image: url(./images/hero-bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
